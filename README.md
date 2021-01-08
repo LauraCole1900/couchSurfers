@@ -55,7 +55,7 @@ This site is intended to be used to allow users to share information with each o
 
 ## Technologies Used
 
-Node.js, Express, Express Handlebars, Sequelize, Passport, tsparticles
+Node.js, Express, Express Handlebars, Sequelize, Passport, Particles.js
 
 ## Tests
 
